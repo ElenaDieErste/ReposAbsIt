@@ -1,2 +1,2 @@
 class Baer:
-    pass
+    pass 1
